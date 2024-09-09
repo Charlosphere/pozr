@@ -1,1 +1,1 @@
-POZR - landing page
+POZR landing page
